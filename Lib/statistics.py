@@ -36,7 +36,7 @@ Calculate the standard median of discrete data:
 
 
 Calculate the median, or 50th percentile, of data grouped into class intervals
-centred on the data values provided. E.g. if your data points are rounded to
+centred on the data values provided. e.g. if your data points are rounded to
 the nearest whole number:
 
 >>> median_grouped([2, 2, 3, 3, 3, 4])  #doctest: +ELLIPSIS
@@ -587,7 +587,7 @@ def multimode(data):
 # surveyed offered at least one or both of these two, making them
 # "standard" in the sense of "widely-adopted and reproducible".
 # They are also easy to explain, easy to compute manually, and have
-# straight-forward interpretations that aren't surprising.
+# straightforward interpretations that aren't surprising.
 
 # The default method is known as "R6", "PERCENTILE.EXC", or "expected
 # value of rank order statistics". The alternative method is known as
